@@ -30,56 +30,22 @@ For Software:
 
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+For Software: python compiler
 
-# Run
-[commands]
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ### Demo Images
 
-<img src="assets/image1.png" width="50px">
+<img src="assets/image1.png" width="110px">
+<img src="image2.png" width="110px">
+<img src="image3.png" width="110px">
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [SHAHIR N]: [Specific contributions]
-- [JACKSON SHELVI]: [Specific contributions]
+- [SHAHIR N]: [MAIN TECHNICAL]
+- [JACKSON SHELVI]: [MAIN IDEATER]
 - [Name 3]: [Specific contributions]
 
 ---

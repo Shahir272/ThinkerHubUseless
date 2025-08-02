@@ -43,9 +43,7 @@ For Software:
 # Screenshots (Add at least 3)
 ### Demo Images
 
-![Image 1](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image1.png)
-![Image 2](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image2.png)
-![Image 3](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image3.png)
+<img src="assets/image1.png" width="50px">
 
 
 # Diagrams

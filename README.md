@@ -41,14 +41,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+### Demo Images
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Image 1](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image1.png)
+![Image 2](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image2.png)
+![Image 3](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/image3.png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
